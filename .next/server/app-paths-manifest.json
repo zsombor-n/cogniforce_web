@@ -1,0 +1,5 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(theme3)/index-s3/page": "app/(theme3)/index-s3/page.js"
+}
