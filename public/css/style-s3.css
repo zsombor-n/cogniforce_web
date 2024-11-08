@@ -32959,6 +32959,7 @@ textarea.form-control-lg {
 }
 .logo-img {
   height: 100%;
+  width: 20%; /* SET LOGO SIZE */
 }
 .logo-img:not(:first-child) {
   position: absolute;
